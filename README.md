@@ -1,6 +1,6 @@
 # **Olá! Seja bem vindo :)** 👋
 
-<img src="https://user-images.githubusercontent.com/53521650/109302381-f7171c80-7817-11eb-898e-fbb3db8f005e.png" width=300 align=right>
+<img src="./images/image_computer.png" width=300 align=right>
 
 Cursando Bacharelado em Sistemas de Informação na Universidade Federal de Mato Grosso do Sul, e atualmente desenvolvendo TCC na área de Processamento de Linguagem Natural (NLP), mais especificamente em Análise de Sentimentos, Mineração de Opinião. Técnico em Informática desde 2012 pelo Centro Estadual de Educação Tecnológica Paula Souza - CEETEPS - São Paulo - Brasil.
 
