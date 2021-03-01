@@ -1,16 +1,35 @@
-### Hi there 👋
+# **Olá! Seja bem vindo :)** 👋
 
-<!--
-**tsffarias/tsffarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://user-images.githubusercontent.com/53521650/109302381-f7171c80-7817-11eb-898e-fbb3db8f005e.png" width=300 align=right>
 
-Here are some ideas to get you started:
+Cursando Bacharelado em Sistemas de Informação na Universidade Federal de Mato Grosso do Sul, e atualmente desenvolvendo TCC na área de Processamento de Linguagem Natural (NLP), mais especificamente em Análise de Sentimentos, Mineração de Opinião. Técnico em Informática desde 2012 pelo Centro Estadual de Educação Tecnológica Paula Souza - CEETEPS - São Paulo - Brasil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### **Atualmente**:
+- Se esforçando para se tornar Analista de Dados Jr.;
+- Construindo super modelos de redes neurais para Análise de Sentimentos;
+- Aprendendo Japonês (日本語)
+
+---
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsffarias&hide=html&layout=compact&theme=radical" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=tsffarias&theme=radical"/></td>
+    </tr>   
+</table>
+</center>
+
+---
+
+## **Onde me encontrar?** 📫  
+
+<a href="https://www.linkedin.com/in/leticiasilvar"><img src="./images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/thiagosilvafarias/)  
+
+<a href="mailto:tsffarias@gmail.com"><img src="./images/email.png" width="16"></img></a> [Email](mailto:tsffarias@gmail.com)  
+
+---  
+
+![](https://komarev.com/ghpvc/?username=tsffarias&color=blue&style=flat)
