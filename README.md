@@ -2,12 +2,12 @@
 
 <img src="./images/image_computer.png" width=300 align=right>
 
-Cursando Bacharelado em Sistemas de Informação na Universidade Federal de Mato Grosso do Sul, e atualmente desenvolvendo TCC na área de Processamento de Linguagem Natural (NLP), mais especificamente em Análise de Sentimentos, Mineração de Opinião. Técnico em Informática desde 2012 pelo Centro Estadual de Educação Tecnológica Paula Souza - CEETEPS - São Paulo - Brasil.
+Cursando Bacharelado em Sistemas de Informação na Universidade Federal de Mato Grosso do Sul, onde desenvolveu TCC na área de Processamento de Linguagem Natural (NLP), mais especificamente em Análise de Sentimentos, Mineração de Opinião. Analista de Dados Jr. no iFood. Técnico em Informática desde 2012 pelo Centro Estadual de Educação Tecnológica Paula Souza - CEETEPS - São Paulo - Brasil.
 
 ---
 
 ### **Atualmente**:
-- Se esforçando para se tornar Analista de Dados Jr.;
+- Analista de Dados Jr. no iFood;
 - Construindo super modelos de redes neurais para Análise de Sentimentos;
 - Aprendendo Japonês (日本語)
 
