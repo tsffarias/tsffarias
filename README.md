@@ -2,14 +2,15 @@
 
 <img src="./images/image_computer.png" width=300 align=right>
 
-Cursando Bacharelado em Sistemas de Informação na Universidade Federal de Mato Grosso do Sul, onde desenvolveu TCC na área de Processamento de Linguagem Natural (NLP), mais especificamente em Análise de Sentimentos, Mineração de Opinião. Analista de Dados Jr. no iFood. Técnico em Informática desde 2012 pelo Centro Estadual de Educação Tecnológica Paula Souza - CEETEPS - São Paulo - Brasil.
+Bacharel em Sistemas de Informação na Universidade Federal de Mato Grosso do Sul, onde desenvolveu TCC na área de Processamento de Linguagem Natural (NLP), mais especificamente em Análise de Sentimentos, Mineração de Opinião. Analista de Dados com mais de 2 anos de experiência, especializado em transformar grandes volumes de dados em insights valiosos para a tomada de decisões. Minha jornada profissional inclui uma passagem significativa pelo iFood na Squad de Data Ads, onde fui responsável por construir ETLs, relatórios detalhados, dashboards e algoritmos poderosos, que tiveram grande impacto nas decisões de negócios de diferentes times como comercial, financeiro, operação e marketing.
 
 ---
 
 ### **Atualmente**:
-- Analista de Dados Jr. no iFood;
-- Construindo super modelos de redes neurais para Análise de Sentimentos;
-- Aprendendo Japonês (日本語)
+- Analista de Dados Jr;
+- Estudando BI;
+- Apreciando literatura clássica;
+- Aprendendo Japonês (日本語);
 
 ---
 
