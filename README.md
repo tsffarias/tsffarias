@@ -9,7 +9,7 @@
 ---
 
 ### **Atualmente**:
-- Analista de Dados Jr;
+- Analista de Dados;
 - Estudando BI;
 - Apreciando literatura clássica;
 - Aprendendo Japonês (日本語);
