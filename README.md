@@ -2,17 +2,20 @@
 
 <img src="./images/image_computer.png" width=300 align=right>
 
-🌐 Olá! Sou um Analista de Dados com mais de 2 anos de experiência, especializado em transformar grandes volumes de dados em insights valiosos para a tomada de decisões. Tenho conhecimento em modelagem de banco de dados e criação de Data Warehouses robustos utilizando as seguintes plataformas: Amazon Redshift, Google BigQuery e Snowflake. Minha jornada profissional inclui uma passagem significativa pelo iFood na squad de Data Ads, onde fui responsável por construir ETLs, relatórios detalhados, dashboards e algoritmos poderosos, que tiveram grande impacto nas decisões de negócios de diferentes times como comercial, financeiro, operação e marketing.
+🌐 Olá! Sou um Engenheiro de Dados com mais de 2 anos de experiência na área de dados, especializado em transformar grandes volumes de dados em insights valiosos para a tomada de decisões. Tenho experiência em integração de dados, desenvolvimento de ETLs e gerenciamento de pipelines, atuo na construção de soluções escaláveis que conectam plataformas de CRM, automação de dados e geração de insights para campanhas de marketing. Minha jornada profissional inclui uma passagem significativa pelo iFood na squad de Data Ads, onde fui responsável por construir ETLs, relatórios detalhados, dashboards e algoritmos poderosos, que tiveram grande impacto nas decisões de negócios de diferentes times como comercial, financeiro, operação e marketing.
 
-📊 Formado em Sistemas de Informação pela UFMS, destaco meu TCC na área de Redes Neurais voltado para Análise de Sentimentos Textuais, que exemplifica minha capacidade técnica e interesse em desafios complexos de dados. Realizei um estudo comparativo da aplicação de 4 arquiteturas de redes neurais na tarefa de classificação de sentimentos (polaridades positivo, negativo, neutro) de reviews de filmes e notícias financeiras. E durante este período trabalhei como estagiário na prefeitura de Ilha Solteira no departamento de TI como desenvolvedor de Software. No iFood, trabalhei na BU de Mercado na squad de Data Ads, contribuindo para projetos importantes, e adquiri experiências que enriqueceram minhas habilidades em Python, PySpark, SQL, Apache Airflow e Tableau.
+📊 Minha experiência profissional:
+● Na Maio Marketing, como Engenheiro de Dados, contribui com o desenvolvimento de Integrações de plataformas CRM por meio da construção de ETLs e monitoramento de pipelines de dados. ETLs para automação de Web Scraping de produtos, e geração e segmentação de audiências para campanhas personalizadas.
+● No iFood, atuei como Analista de Dados na BU de Mercado, Squad de Data Ads, contribuindo para decisões de negócios em áreas como comercial, financeiro e operações. Desenvolvi ETLs robustos, dashboards estratégicos e algoritmos que impactaram diretamente os resultados de diferentes times.
+● Sou formado em Sistemas de Informação pela UFMS, com um TCC focado em redes neurais para análise de sentimentos, onde apliquei arquiteturas de deep learning para classificar polaridades de textos em reviews de filmes e notícias financeiras.
 
 ---
 
 ### **Atualmente**:
-- Analista de Dados;
-- Estudando BI;
+- Engenheiro de Dados;
 - Apreciando literatura clássica;
 - Aprendendo Japonês (日本語);
+- Trabalhando para realizar o sonho de pisar o meu pé no EUA e no Japão.
 
 ---
 
